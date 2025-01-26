@@ -1,4 +1,5 @@
-## Hi there 👋
+## Helleo
+Total beginner here but working hard to understand the workings of the computarised universe. Looking foward building my hours here ;)
 
 <!--
 **nerd-thinker/nerd-thinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
